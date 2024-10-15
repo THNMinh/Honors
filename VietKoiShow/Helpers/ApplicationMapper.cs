@@ -9,6 +9,7 @@ namespace VietKoiShow.Helpers
         public ApplicationMapper()
         {
             CreateMap<TblkoiFish, KoiFishModel>().ReverseMap();
+            //////dcmm
         }
     }
 }

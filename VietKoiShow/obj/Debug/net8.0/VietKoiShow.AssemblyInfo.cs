@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VietKoiShow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3738bc673ae1957cb61d51c731e4368cf7fa1f59")]
 [assembly: System.Reflection.AssemblyProductAttribute("VietKoiShow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VietKoiShow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

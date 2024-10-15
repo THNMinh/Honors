@@ -8173,11 +8173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fptsh\\source\\repos\\VietKoiShow\\VietKoiShow\\VietKoiShow.csproj",
+      "projectUniqueName": "C:\\Users\\fptsh\\Downloads\\SWP391\\gitTest\\VietKoiShow\\VietKoiShow.csproj",
       "projectName": "VietKoiShow",
-      "projectPath": "C:\\Users\\fptsh\\source\\repos\\VietKoiShow\\VietKoiShow\\VietKoiShow.csproj",
+      "projectPath": "C:\\Users\\fptsh\\Downloads\\SWP391\\gitTest\\VietKoiShow\\VietKoiShow.csproj",
       "packagesPath": "C:\\Users\\fptsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fptsh\\source\\repos\\VietKoiShow\\VietKoiShow\\obj\\",
+      "outputPath": "C:\\Users\\fptsh\\Downloads\\SWP391\\gitTest\\VietKoiShow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
